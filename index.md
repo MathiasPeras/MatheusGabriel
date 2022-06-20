@@ -14,8 +14,8 @@ Estudante de Ciênca da Computação PUCPR (Pontifícia Universidade Católica d
 
 *aplicativo*
  
-![unknown (3)](https://user-images.githubusercontent.com/99271709/174503464-dc17acb2-8853-4f3e-98ea-c017ed5345eb.png)
-![unknown (1)](https://user-images.githubusercontent.com/99271709/174504186-bf147dcd-10f1-4f5c-97c6-da514cf1cf70.png)
+![WhatsApp Image 2022-06-18 at 14 23 15](https://user-images.githubusercontent.com/99271709/174515032-fc343e2c-d388-4167-93d9-c1dbb669a20b.jpeg)
+
  
 Aplicativo feito no processing, mostrando informações sobre Harry Potter 
 
