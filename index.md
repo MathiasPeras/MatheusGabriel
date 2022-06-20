@@ -30,7 +30,7 @@ Contém um menu que redireciona para outras páginas com imagens, vídeos, input
   
 ### Raciocínio Algorítmico:
 
-*JOKEMPÔ* com dois modos de jogo JOGADORxJOGADOR e JOGADORxCOMPUTADOR.
+*JOKENPÔ* com dois modos de jogo JOGADORxJOGADOR e JOGADORxCOMPUTADOR.
  
 ![image](https://user-images.githubusercontent.com/99271709/174503694-191d7019-1045-4e39-8497-08a2b71e37a3.png)
   
